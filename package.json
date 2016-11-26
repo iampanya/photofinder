@@ -1,0 +1,15 @@
+{
+  "name": "photofinder",
+  "version": "1.0.0",
+  "description": "Find awesome photo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Photo",
+    "finder"
+  ],
+  "author": "iamPanya",
+  "license": "ISC"
+}
